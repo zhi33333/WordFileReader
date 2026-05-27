@@ -1,0 +1,302 @@
+﻿abacus	ˋæbəkəs	Sound\A\abacus.mp3	<aba-=abax-:一種計算工具>+<-us: calculus 小圓石>	一種利用小圓石幫助計算的工具	補充4
+abandon	əˋbændən	Sound\A\abandon.mp3	<ab-:away>+<-band:bind綁>	ban 禁令	把自己都放棄掉
+abase	əˋbes	Sound\A\abase.mp3	<base:基礎>		
+abate	əˋbet	Sound\A\abate.mp3	<bat:打擊>		
+abbreviate	əˋbrivɪ͵et	Sound\A\abbreviate.mp3	<-brev:brief>		
+abdicate	ˋæbdə͵ket	Sound\A\abdicate.mp3	<ab-:away>+<-dic:say>	放棄說話的權利	dictator 獨裁者
+abdomen	ˋæbdəmən	Sound\A\abdomen.mp3	<dome 圓頂>		
+abduct	æbˋdʌkt	Sound\A\abduct.mp3	<ab-:away>+<-duct:lead>		
+aberrant	æˋbɛrənt	Sound\A\aberrant.mp3	<ab-:away>+<err:walk>+<ant:ing>	一天到晚都走偏	errand 跑腿
+abhor	əbˋhɔr	Sound\A\abhor.mp3	<-hor:horrible 可怕的>	形聲 [厚…]	
+abide	əˋbaɪd	Sound\A\abide.mp3	<bid-:bind綁>	abide的i令人無法忍受	
+abject	ˋæbdʒɛkt	Sound\A\abject.mp3	<ab-:away>+<ject: throw丟>		
+abnormal	æbˋnɔrm!	Sound\A\abnormal.mp3	<ab-:away>+normal	遠離正常	
+aboard	əˋbord	Sound\A\aboard.mp3			
+abolish	əˋbɑlɪʃ	Sound\A\abolish.mp3	<ab-:away>+<-ol:old>	丟掉古老的東西	
+aboriginal	͵æbəˋrɪdʒən!	Sound\A\aboriginal.mp3			
+abort	əˋbɔrt	Sound\A\abort.mp3	<a-:not>+<-bor:born 出生>		
+abound	əˋbaʊnd	Sound\A\abound.mp3	<a-:not>+<-und:wave>		
+abroad	əˋbrɔd	Sound\A\abroad.mp3			
+abrupt	əˋbrʌpt	Sound\A\abrupt.mp3			
+abscond	æbˋskɑnd	Sound\A\abscond.mp3			
+absence	ˋæbsns	Sound\A\absence.mp3	<ab-:away>+<-sence:sense>		
+absorb	əbˋsɔrb	Sound\A\absorb.mp3			
+abstract	ˋæbstrækt	Sound\A\abstract.mp3	<ab-:away>+<-tract:draw>	拉開->抓出最精要的部分	
+absurd	əbˋsɝd	Sound\A\absurd.mp3	<ab-:away>+<-sur:super>	太超過	
+abundant	əˋbʌndənt	Sound\A\abundant.mp3	<ab-:away>+<-und:wave>	像海浪一波波地流->豐富的	補充8
+abuse	əˋbjuz	Sound\A\abuse.mp3	<ab-:away>+use	小孩不當使用	
+abusive	əˋbjusɪv	Sound\A\abusive.mp3			
+abut	əˋbʌt	Sound\A\abut.mp3	<-but:butt> 尾端->邊界->連接	[a 一個]+[but 連接詞]	
+abysmal	əˋbɪzm!	Sound\A\abysmal.mp3			
+abyss	əˋbɪs	Sound\A\abyss.mp3			
+academy	əˋkædəmɪ	Sound\A\academy.mp3	補充9		
+accede	ækˋsid	Sound\A\accede.mp3	<ac-=ad-:to>+<-ced:go>	叫你去就去	
+accent	ˋæksɛnt	Sound\A\accent.mp3			
+access	ˋæksɛs	Sound\A\access.mp3	<ac-=ad-:to>+<-cess:go>	能走進去	
+accessible	ækˋsɛsəb!	Sound\A\accessible.mp3			
+accessory	ækˋsɛsərɪ	Sound\A\accessory.mp3			
+accident	ˋæksədənt	Sound\A\accident.mp3	<-cid:fall>		
+acclaim	əˋklem	Sound\A\acclaim.mp3	<-claim: cry out>		
+accompany	əˋkʌmpənɪ	Sound\A\accompany.mp3	<-pan:麵包>		
+accord	əˋkɔrd	Sound\A\accord.mp3			
+accrue	əˋkru	Sound\A\accrue.mp3	<-crue:grow>		
+accumulate	əˋkjumjə͵let	Sound\A\accumulate.mp3			
+accurate	ˋækjərɪt	Sound\A\accurate.mp3			
+accuse	əˋkjuz	Sound\A\accuse.mp3			
+ace	es	Sound\A\ace.mp3			
+acerbic	əˋsɝbɪk	Sound\A\acerbic.mp3			
+Achilles' heel	əˌkɪliːz ˈhiːl	Sound\A\Achilles_heel.mp3			
+Achilles tendon	əˌkɪliːz ˈtendən	Sound\A\Achilles_tendon.mp3			
+acid	ˋæsɪd	Sound\A\acid.mp3			
+acme	ˋækmɪ	Sound\A\acme.mp3			
+acne	ˋæknɪ	Sound\A\acne.mp3			
+acoustic	əˋkustɪk	Sound\A\acoustic.mp3			
+acoustics	əˋkustɪks	Sound\A\acoustics.mp3			
+acquaint	əˋkwent	Sound\A\acquaint.mp3			
+acquaintance	əˋkwentəns	Sound\A\acquaintance.mp3			
+acquire	əˋkwaɪr	Sound\A\acquire.mp3			
+acronym	ˋækrənɪm	Sound\A\acronym.mp3			
+actor	ˋæktɚ	Sound\A\actor.mp3			
+actress	ˋæktrɪs	Sound\A\actress.mp3			
+acupuncture	ˋækjʊ͵pʌŋktʃɚ	Sound\A\acupuncture.mp3			
+acute	əˋkjut	Sound\A\acute.mp3			
+adamant	ˋædəmənt	Sound\A\adamant.mp3			
+adapt	əˋdæpt	Sound\A\adapt.mp3			
+addict	əˋdɪkt	Sound\A\addict.mp3			
+address	əˋdrɛs	Sound\A\address.mp3			
+adept	əˋdɛpt	Sound\A\adept.mp3			
+adequate	ˋædəkwɪt	Sound\A\adequate.mp3			
+adhere	ədˋhɪr	Sound\A\adhere.mp3			
+adherent	ədˋhɪrənt	Sound\A\adherent.mp3			
+adjacent	əˋdʒesənt	Sound\A\adjacent.mp3			
+adjust	əˋdʒʌst	Sound\A\adjust.mp3			
+administer	ədˋmɪnəstɚ	Sound\A\administer.mp3			
+administration	əd͵mɪnəˋstreʃən	Sound\A\administration.mp3			
+admire	ədˋmaɪr	Sound\A\admire.mp3			
+adolescent	͵æd!ˋɛsnt	Sound\A\adolescent.mp3			
+adopt	əˋdɑpt	Sound\A\adopt.mp3			
+adorable	əˋdorəb!	Sound\A\adorable.mp3			
+adore	əˋdor	Sound\A\adore.mp3			
+adorn	əˋdɔrn	Sound\A\adorn.mp3	補充17		
+adultery	əˋdʌltərɪ	Sound\A\adultery.mp3			
+advent	ˋædvɛnt	Sound\A\advent.mp3			
+adventure	ədˋvɛntʃɚ	Sound\A\adventure.mp3			
+adversary	ˋædvɚ͵sɛrɪ	Sound\A\adversary.mp3			
+adverse	ædˋvɝs	Sound\A\adverse.mp3			
+adversity	ədˋvɝsətɪ	Sound\A\adversity.mp3			
+advocate	ˋædvəkɪt	Sound\A\advocate.mp3			
+aegis	ˋidʒɪs	Sound\A\aegis.mp3			
+aero-	ˋɛro	Sound\A\aero-.mp3	<aero-:air>		
+aerobic	eəˋrobɪk	Sound\A\aerobic.mp3			
+aesthetic	ɛsˋθɛtɪk	Sound\A\aesthetic.mp3			
+affable	ˋæfəb!	Sound\A\affable.mp3			
+affair	əˋfɛr	Sound\A\affair.mp3			
+affect	əˋfɛkt	Sound\A\affect.mp3			
+affiliate	əˋfɪlɪ͵et	Sound\A\affiliate.mp3			
+afflict	əˋflɪkt	Sound\A\afflict.mp3			
+affluent	ˋæflʊənt	Sound\A\affluent.mp3			
+afford	əˋford	Sound\A\afford.mp3			
+agenda	əˋdʒɛndə	Sound\A\agenda.mp3			
+agent	ˋedʒənt	Sound\A\agent.mp3			
+aggravate	ˋægrə͵vet	Sound\A\aggravate.mp3			
+aggressive	əˋgrɛsɪv	Sound\A\aggressive.mp3			
+agile	ˋædʒaɪl	Sound\A\agile.mp3			
+agony	ˋægənɪ	Sound\A\agony.mp3			
+aisle	aɪl	Sound\A\aisle.mp3			
+albeit	ɔlˋbiɪt	Sound\A\albeit.mp3			
+albino	ælˋbaɪno	Sound\A\albino.mp3			
+album	ˋælbəm	Sound\A\album.mp3			
+alert	əˋlɝt	Sound\A\alert.mp3			
+alien	ˋelɪən	Sound\A\alien.mp3			
+alienate	ˋeljən͵et	Sound\A\alienate.mp3			
+alimentary canal 	͵æliˋmentəri kəˋnæl	Sound\A\alimentary_canal.mp3			
+alimony	ˋælə͵monɪ	Sound\A\alimony.mp3			
+A-list	ˈeɪˌlɪst	Sound\A\A-list.mp3			
+allergen	ˋælɚ͵dʒɛn	Sound\A\allergen.mp3			
+allergic	əˋlɝdʒɪk	Sound\A\allergic.mp3			
+allergy	ˋælɚdʒɪ	Sound\A\allergy.mp3			
+allied	əˋlaɪd	Sound\A\allied.mp3			
+alligator	ˋælə͵getɚ	Sound\A\alligator.mp3	補充23		
+alliteration	ə͵lɪtəˋreʃən	Sound\A\alliteration.mp3	補充24		
+allocate	ˋælə͵ket	Sound\A\allocate.mp3			
+allowance	əˋlaʊəns	Sound\A\allowance.mp3			
+allude	əˋlud	Sound\A\allude.mp3			
+allusion	əˋluʒən	Sound\A\allusion.mp3			
+ally	əˋlaɪ	Sound\A\ally.mp3			
+almighty	ɔlˋmaɪtɪ	Sound\A\almighty.mp3			
+alpaca	ælˋpækə	Sound\A\alpaca.mp3			
+alphabet	ˋælfə͵bɛt	Sound\A\alphabet.mp3			
+also-ran	ˋɔlso͵ræn	Sound\A\also-ran.mp3			
+alter	ˋɔltɚ	Sound\A\alter.mp3			
+alternative	ɔlˋtɝnətɪv	Sound\A\alternative.mp3			
+altitude	ˋæltə͵tjud	Sound\A\altitude.mp3			
+altruism	ˋæltrʊ͵ɪzəm	Sound\A\altruism.mp3			
+aluminium	͵æljəˋmɪnɪəm	Sound\A\aluminium.mp3			
+alumni	əˋlʌmnaɪ	Sound\A\alumni.mp3			
+alumnus	əˋlʌmnəs	Sound\A\alumnus.mp3			
+amateur	ˋæmə͵tʃʊr	Sound\A\amateur.mp3			
+amaze	əˋmez	Sound\A\amaze.mp3			
+amazing	əˋmezɪŋ	Sound\A\amazing.mp3			
+Amazon	ˋæmə͵zɑn	Sound\A\Amazon.mp3			
+ambassador	æmˋbæsədɚ	Sound\A\ambassador.mp3			
+ambiguous	æmˋbɪgjʊəs	Sound\A\ambiguous.mp3			
+ambition	æmˋbɪʃən	Sound\A\ambition.mp3			
+ambivalent	æmˋbɪvələnt	Sound\A\ambivalent.mp3			
+amble	ˋæmb!	Sound\A\amble.mp3	補充25		
+ambulance	ˋæmbjələns	Sound\A\ambulance.mp3			
+ambush	ˋæmbʊʃ	Sound\A\ambush.mp3			
+amenity	əˋminətɪ	Sound\A\amenity.mp3			
+amiable	ˋemɪəb!	Sound\A\amiable.mp3			
+amicable	ˋæmɪkəb!	Sound\A\amicable.mp3			
+amnesia	æmˋniʒɪə	Sound\A\amnesia.mp3			
+amnesty	ˋæm͵nɛstɪ	Sound\A\amnesty.mp3			
+amphibian	æmˋfɪbɪən	Sound\A\amphibian.mp3			
+ample	ˋæmp!	Sound\A\ample.mp3			
+amplify	ˋæmplə͵faɪ	Sound\A\amplify.mp3			
+amuse	əˋmjuz	Sound\A\amuse.mp3			
+amusement park	əˋmjuzmənt pɑrk	Sound\A\amusement_park.mp3			
+anagram	ˋænə͵græm	Sound\A\anagram.mp3			
+analogy	əˋnælədʒɪ	Sound\A\analogy.mp3			
+anarchy	ˋænɚkɪ	Sound\A\anarchy.mp3			
+anatomy	əˋnætəmɪ	Sound\A\anatomy.mp3			
+ancestor	ˋænsɛstɚ	Sound\A\ancestor.mp3			
+anchor	ˋæŋkɚ	Sound\A\anchor.mp3			
+anecdote	ˋænɪk͵dot	Sound\A\anecdote.mp3			
+anger	ˋæŋgɚ	Sound\A\anger.mp3			
+angry	ˋæŋgrɪ	Sound\A\angry.mp3			
+anguish	ˋæŋgwɪʃ	Sound\A\anguish.mp3			
+annex	əˋnɛks	Sound\A\annex.mp3			
+annihilate	əˋnaɪə͵let	Sound\A\annihilate.mp3			
+anniversary	͵ænəˋvɝsərɪ	Sound\A\anniversary.mp3			
+announce	əˋnaʊns	Sound\A\announce.mp3			
+announcement	əˋnaʊnsmənt	Sound\A\announcement.mp3			
+annual	ˋænjʊəl	Sound\A\annual.mp3			
+antagonist	ænˋtægənɪst	Sound\A\antagonist.mp3	補充28		
+Antarctic	ænˋtɑrktɪk	Sound\A\Antarctic.mp3			
+ante-	ˋæntɪ	Sound\A\ante-.mp3			
+antecedent	͵æntəˋsidənt	Sound\A\antecedent.mp3			
+antelope	ˋænt!op	Sound\A\antelope.mp3			
+anthem	ˋænθəm	Sound\A\anthem.mp3			
+anthropo-	anthropo-	Sound\A\anthropo-.mp3			
+anthropoid	ˋænθrə͵pɔɪd	Sound\A\anthropoid.mp3			
+anthropology	͵ænθrəˋpɑlədʒɪ	Sound\A\anthropology.mp3			
+antibiotic	͵æntɪbaɪˋɑtɪk	Sound\A\antibiotic.mp3			
+antibody	ˋæntɪ͵bɑdɪ	Sound\A\antibody.mp3			
+anticipate	ænˋtɪsə͵pet	Sound\A\anticipate.mp3			
+antique	ænˋtik	Sound\A\antique.mp3			
+antonym	ˋæntə͵nɪm	Sound\A\antonym.mp3			
+anus	ˋenəs	Sound\A\anus.mp3	一個我們		
+aorta	eˋɔrtə	Sound\A\aorta.mp3			
+ape	ep	Sound\A\ape.mp3			
+apparatus	͵æpəˋretəs	Sound\A\apparatus.mp3			
+apparel	əˋpærəl	Sound\A\apparel.mp3			
+apparent	əˋpærənt	Sound\A\apparent.mp3			
+appeal	əˋpil	Sound\A\appeal.mp3			
+appealing	əˋpilɪŋ	Sound\A\appealing.mp3			
+appendix	əˋpɛndɪks	Sound\A\appendix.mp3			
+appetite	ˋæpə͵taɪt	Sound\A\appetite.mp3			
+appetizer	ˋæpə͵taɪzɚ	Sound\A\appetizer.mp3			
+applaud	əˋplɔd	Sound\A\applaud.mp3			
+appliance	əˋplaɪəns	Sound\A\appliance.mp3			
+appoint	əˋpɔɪnt	Sound\A\appoint.mp3			
+appointment	əˋpɔɪntmənt	Sound\A\appointment.mp3			
+appreciate	əˋpriʃɪ͵et	Sound\A\appreciate.mp3			
+apprentice	əˋprɛntɪs	Sound\A\apprentice.mp3			
+appropriate	əˋproprɪ͵et	Sound\A\appropriate.mp3			
+approximate	əˋprɑksəmɪt	Sound\A\approximate.mp3			
+apt	æpt	Sound\A\apt.mp3			
+aptitude	ˋæptə͵tjud	Sound\A\aptitude.mp3			
+aquarium	əˋkwɛrɪəm	Sound\A\aquarium.mp3			
+archaeology	͵ɑrkɪˋɑlədʒɪ	Sound\A\archaeology.mp3			
+archaic	ɑrˋkeɪk	Sound\A\archaic.mp3			
+archive	ˋɑrkaɪv	Sound\A\archive.mp3			
+ardent	ˋɑrdənt	Sound\A\ardent.mp3			
+arduous	ˋɑrdʒʊəs	Sound\A\arduous.mp3			
+area	ˋɛrɪə	Sound\A\area.mp3			
+arena	əˋrinə	Sound\A\arena.mp3			
+arid	ˋærɪd	Sound\A\arid.mp3			
+aristocracy	͵ærəsˋtɑkrəsɪ	Sound\A\aristocracy.mp3			
+aristocrat	æˋrɪstə͵kræt	Sound\A\aristocrat.mp3			
+armada	ɑrˋmɑdə	Sound\A\armada.mp3			
+Armageddon	͵ɑrməˋgɛdn	Sound\A\Armageddon.mp3			
+armistice	ˋɑrməstɪs	Sound\A\armistice.mp3			
+aroma	əˋromə	Sound\A\aroma.mp3			
+array	əˋre	Sound\A\array.mp3			
+arrest	əˋrɛst	Sound\A\arrest.mp3			
+arrogant	ˋærəgənt	Sound\A\arrogant.mp3			
+arson	ˋɑrsn	Sound\A\arson.mp3			
+artery	ˋɑrtərɪ	Sound\A\artery.mp3			
+arthritis	ɑrˋθraɪtɪs	Sound\A\arthritis.mp3			
+ascend	əˋsɛnd	Sound\A\ascend.mp3			
+ascribe	əˋskraɪb	Sound\A\ascribe.mp3			
+asparagus	əˋspærəgəs	Sound\A\asparagus.mp3			
+aspect	ˋæspɛkt	Sound\A\aspect.mp3			
+aspire	əˋspaɪr	Sound\A\aspire.mp3			
+assail	əˋsel	Sound\A\assail.mp3			
+assassin	əˋsæsɪn	Sound\A\assassin.mp3	屁股屁股插進去		
+assassinate	əˋsæsɪn͵et	Sound\A\assassinate.mp3			
+assault	əˋsɔlt	Sound\A\assault.mp3			
+assemble	əˋsɛmb!	Sound\A\assemble.mp3			
+assembly	əˋsɛmblɪ	Sound\A\assembly.mp3			
+assembly line	əˋsɛmblɪ laɪn	Sound\A\assembly line.mp3			
+assent	əˋsɛnt	Sound\A\assent.mp3			
+assert	əˋsɝt	Sound\A\assert.mp3			
+assess	əˋsɛs	Sound\A\assess.mp3			
+asset	ˋæsɛt	Sound\A\asset.mp3			
+asshole	ˋæshol	Sound\A\asshole.mp3			
+assiduous	əˋsɪdʒʊəs	Sound\A\assiduous.mp3			
+assimilate	əˋsɪm!͵et	Sound\A\assimilate.mp3			
+assist	əˋsɪst	Sound\A\assist.mp3			
+assistant	əˋsɪstənt	Sound\A\assistant.mp3			
+associate	əˋsoʃɪ͵et	Sound\A\associate.mp3			
+association	ə͵sosɪˋeʃən	Sound\A\association.mp3			
+assorted	əˋsɔrtɪd	Sound\A\assorted.mp3			
+assume	əˋsjum	Sound\A\assume.mp3			
+asteroid	ˋæstə͵rɔɪd	Sound\A\asteroid.mp3			
+asthma	ˋæzmə	Sound\A\asthma.mp3			
+astonish	əˋstɑnɪʃ	Sound\A\astonish.mp3			
+astound	əˋstaʊnd	Sound\A\astound.mp3			
+astro-	astro-	Sound\A\astro-.mp3			
+astrology	əˋstrɑlədʒɪ	Sound\A\astrology.mp3			
+astronaut	ˋæstrə͵nɔt	Sound\A\astronaut.mp3			
+astronomy	əsˋtrɑnəmɪ	Sound\A\astronomy.mp3			
+astute	əˋstjut	Sound\A\astute.mp3			
+asylum	əˋsaɪləm	Sound\A\asylum.mp3			
+atheism	ˋeθɪ͵ɪzəm	Sound\A\atheism.mp3			
+atmosphere	ˋætməs͵fɪr	Sound\A\atmosphere.mp3			
+atom	ˋætəm	Sound\A\atom.mp3			
+attach	əˋtætʃ	Sound\A\attach.mp3			
+attachment	əˋtætʃmənt	Sound\A\attachment.mp3			
+attain	əˋten	Sound\A\attain.mp3			
+attend	əˋtɛnd	Sound\A\attend.mp3			
+attendant	əˋtɛndənt	Sound\A\attendant.mp3			
+attenuate	əˋtɛnjʊ͵et	Sound\A\attenuate.mp3			
+attest	əˋtɛst	Sound\A\attest.mp3			
+attribute	əˋtrɪbjʊt	Sound\A\attribute.mp3			
+auction	ˋɔkʃən	Sound\A\auction.mp3			
+audacious	ɔˋdeʃəs	Sound\A\audacious.mp3			
+audio-	ˋɔdɪ͵o	Sound\A\audio-.mp3			
+audit	ˋɔdɪt	Sound\A\audit.mp3			
+auditorium	͵ɔdəˋtorɪəm	Sound\A\auditorium.mp3			
+augment	ɔgˋmɛnt	Sound\A\augment.mp3			
+augur	ˋɔgɚ	Sound\A\augur.mp3			
+august	ɔˋgʌst	Sound\A\august.mp3			
+August	ɔˋgʌst	Sound\A\August.mp3			
+aura	ˋɔrə	Sound\A\aura.mp3			
+auroraborealis	əˈrorəˌboriˈæləs	Sound\A\auroraborealis.mp3			
+auspicious	ɔˋspɪʃəs	Sound\A\auspicious.mp3			
+authentic	ɔˋθɛntɪk	Sound\A\authentic.mp3			
+author	ˋɔθɚ	Sound\A\author.mp3			
+authority	əˋθɔrətɪ	Sound\A\authority.mp3			
+authorize	ˋɔθə͵raɪz	Sound\A\authorize.mp3			
+autism	ˋɔtɪzəm	Sound\A\autism.mp3			
+autography	ɔˋtɑgrəfɪ	Sound\A\autography.mp3			
+autonomy	ɔˋtɑnəmɪ	Sound\A\autonomy.mp3			
+autumn	ˋɔtəm	Sound\A\autumn.mp3			
+avid	ˋævɪd	Sound\A\avid.mp3			
+award	əˋwɔrd	Sound\A\award.mp3			
+awe	ɔ	Sound\A\awe.mp3			
+awesome	ˋɔsəm	Sound\A\awesome.mp3			
+awful	ˋɔfʊl	Sound\A\awful.mp3			
+awkward	ˋɔkwɚd	Sound\A\awkward.mp3			
+axe	æks	Sound\A\axe.mp3			
